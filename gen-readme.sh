@@ -15,5 +15,5 @@ END
 echo "$header" >README.md
 
 for file in $(find . -type f \( -name "*.jpg" -o -name "*.png" -o -name "*.gif" \)); do
-  printf "![%s](%s '%s')\n\n" "$file" "$file" "$file" >>README.md
+  printf "![%s]('%s' '%s')\n\n" "$file" "$file" "$file" >>README.md
 done
