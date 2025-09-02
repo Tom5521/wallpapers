@@ -14,6 +14,10 @@ END
 # Write header
 echo "$header" >README.md
 
-for file in $(find . -type f \( -name "*.jpg" -o -name "*.png" -o -name "*.gif" \)); do
-  printf "![%s](%q '%s')\n\n" "$file" "$file" "$file" >>README.md
+for file in ./*; do
+  if [[ "$file" != *.png && "$file" != *.jpg && "$file" != *.gif ]]; then
+    continue
+  fi
+
+  printf "![%s](<%s> '%s')\n\n" "$file" "$file" "$file" >>README.md
 done
