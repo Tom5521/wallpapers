@@ -24,11 +24,15 @@ where I got them from.
 
 ![./825760.png](<./825760.png> './825760.png')
 
+![./87181626_p0.jpg](<./87181626_p0.jpg> './87181626_p0.jpg')
+
 ![./959316.png](<./959316.png> './959316.png')
 
 ![./99720160_p1.jpg](<./99720160_p1.jpg> './99720160_p1.jpg')
 
 ![./Astolfo!.jpg](<./Astolfo!.jpg> './Astolfo!.jpg')
+
+![./bafkreifyogvjypd2tkrhmxbgexcmmm3rlrtltsxqyzghqbjte54ldlx5qq.jpg](<./bafkreifyogvjypd2tkrhmxbgexcmmm3rlrtltsxqyzghqbjte54ldlx5qq.jpg> './bafkreifyogvjypd2tkrhmxbgexcmmm3rlrtltsxqyzghqbjte54ldlx5qq.jpg')
 
 ![./BGPlanet.png](<./BGPlanet.png> './BGPlanet.png')
 
